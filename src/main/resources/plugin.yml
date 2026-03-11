@@ -1,0 +1,17 @@
+name: VanillaSurvivalExtended
+version: '1.0'
+main: me.skeleton5227.vanillaSurvivalExtended.VanillaSurvivalExtended
+api-version: '1.21'
+prefix: VSE
+load: STARTUP
+authors: [ SKeLeTON5227 ]
+description: Adds a bunch of new content
+website: https://github.com/SKeLeTON5227
+
+commands:
+  rock:
+    description: ""
+  fiber:
+    description: ""
+  stick:
+    description: ""
